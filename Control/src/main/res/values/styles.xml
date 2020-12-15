@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CompassView">
+    <attr name="cv_lineColor" format="color" />
+    <attr name="cv_keyLineColor" format="color" />
+    <attr name="cv_mainLineColor" format="color" />
+    <attr name="cv_edgeTextColor" format="color" />
+    <attr name="cv_orientationTextColor" format="color" />
+    <attr name="cv_angleTextColor" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="DraggableButton">
+    <attr name="dragBtn_background" format="color" />
+    <attr name="dragBtn_pressed" format="color" />
+    </declare-styleable>
+</resources>
